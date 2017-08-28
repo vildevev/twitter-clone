@@ -1,3 +1,4 @@
+require 'help_me_p'
 class SessionsController < ApplicationController
   def new
   end
