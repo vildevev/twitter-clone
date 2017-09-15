@@ -37,10 +37,10 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 
-![Intro](screenshot1.png)
-![Intro](screenshot2.png)
-![Intro](screenshot3.png)
-![Intro](screenshot4.png)
+![Intro](app/assets/images/screenshot1.png)
+![Intro](app/assets/images/screenshot2.png)
+![Intro](app/assets/images/screenshot3.png)
+![Intro](app/assets/images/screenshot4.png)
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
